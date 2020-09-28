@@ -16,7 +16,8 @@ namespace covidiano.Controllers
             return new List<string> {
                 "Xela",
                 "Chiquimula",
-                "Tiqui"
+                "Tiqui",
+                "San Marcos"
             };
         }
     }
